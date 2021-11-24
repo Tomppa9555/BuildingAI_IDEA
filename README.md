@@ -17,7 +17,7 @@ Etc...
 - This is not beginners
 
 ## What next?
-Etc...
+Too early to say, because im not into to do this yet. 
 
 ## Acknowledgments
 The Elements of AI course team providing the proper resource to think about this project
