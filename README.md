@@ -17,7 +17,7 @@ All data is sensitive customer data and thus restricted only to persons directly
 - This is not beginners
 
 ## What next?
-Too early to say, because im not into to do this yet. 
+Too early to say, because i'm not into to do this yet. 
 
 ## Acknowledgments
 The Elements of AI course team providing the proper resource to think about this project
