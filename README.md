@@ -10,7 +10,7 @@ Food is important to people; especially healthy food. We live in a world, where 
 When you buy food in a app or something like API. AI saved your history and analyzed it. This API is important especially for families
 
 ## Data sources and AI methods
-Sources
+All data is sensitive customer data and thus restricted only to persons directly involved with customer. 
 
 ## Challenges
 - Privacy. If you go to do some new API you have to think about the privacy problems.
