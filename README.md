@@ -13,7 +13,8 @@ When you buy food in a app or something like API. AI saved your history and anal
 Etc...
 
 ## Challenges
-- Privacy. 
+- Privacy
+- This is not beginners
 
 ## What next?
 Etc...
