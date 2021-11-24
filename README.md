@@ -1,7 +1,7 @@
 # Meal Recommendator
 Final project for the Building AI course at University of Helsinki 
 ## Summary
-Thinking and choosing meal is everyday problem. So that "meal recommendator" can be used inside example K-Ruoka or S-mobiili app
+Thinking and choosing meal is everyday problem. That "meal recommendator" can be used inside example K-Ruoka or S-mobiili app and meal recommendator recommends meal your based on your purchase history
 
 ## Background
 Etc...
